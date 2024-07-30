@@ -16,7 +16,7 @@ using UnityEngine;
 namespace AbyssMoth
 {
     [HelpURL("https://github.com/RimuruDev/Unity-YandexGame-Cleaner-Helper")]
-    public sealed class CustomEditorMenu : MonoBehaviour
+    public sealed class CustomEditorMenu
     {
         private const string folderPath = "Assets/YandexGame/WorkingData/Editor";
 
